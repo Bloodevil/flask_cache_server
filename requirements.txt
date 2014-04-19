@@ -1,0 +1,9 @@
+Flask==0.10.1
+jinja2==2.7.1
+Werkzeug==0.9.4
+pymongo==2.6.3
+git+https://github.com/Bloodevil/minimongo.git#minimongo
+uWSGI==1.4.5
+requests==1.2.0
+APScheduler==2.1.2
+
